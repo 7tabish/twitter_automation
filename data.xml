@@ -1,0 +1,13 @@
+<Blurbs>
+    <SupRes>
+        <type SupResMain="Test String Main" />
+    </SupRes>
+<SupRes><type comment1="111" />testing purpoe only</SupRes>
+<SupRes><type comment2=" String 2" /></SupRes>
+<SupRes><type comment3="The stock3 has fallen 10 to 30. It has been as high as 30 this year." /></SupRes>
+<SupRes><type comment4="The stock4 has fallen 10 to 30. It has been as high as 30 this year." /></SupRes>
+<SupRes><type comment5="The stock5 has fallen 10 to 30. It has been as high as 30 this year." /></SupRes>
+<SupRes><type comment6="Test String 6" /></SupRes>
+<SupRes><type comment7="Test String 7" /></SupRes>
+<SupRes><type comment8="Test String 8" /></SupRes>
+</Blurbs>
